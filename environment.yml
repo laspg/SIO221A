@@ -10,3 +10,4 @@ dependencies:
   - dask
   - nc-time-axis
   - holoviews
+  - netcdf4
