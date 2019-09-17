@@ -4,5 +4,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - netcdf4
   - xarray
+  - pip
+  - pip:
+    - netcdf4='1.4.2'
