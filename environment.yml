@@ -5,6 +5,10 @@ dependencies:
   - numpy
   - matplotlib
   - xarray
+  - nc-time-axis
+  - holoviews
+  - bokeh
   - pip
-  - pip:
+    - pip:
     - netcdf4==1.4.2
+  
