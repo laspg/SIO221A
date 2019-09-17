@@ -1,0 +1,12 @@
+name: SIO221A-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - xarray
+  - bokeh
+  - dask
+  - nc-time-axis
+  - holoviews
