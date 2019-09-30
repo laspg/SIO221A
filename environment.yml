@@ -8,9 +8,9 @@ dependencies:
   - matplotlib==3.1.0
   - netcdf4==1.4.2
   - xarray==0.12.1
-  - nc-time-axis
-    #- holoviews
-    #- bokeh
-    #- hvplot
-    #- datashader
+  - nc-time-axis==1.2.0
+  - holoviews==1.12.3
+  - bokeh==1.2.0
+  - hvplot==0.4.0
+  - datashader==0.7.0
   
