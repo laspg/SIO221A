@@ -5,10 +5,10 @@ channels:
 dependencies:
   - libnetcdf==4.6.1
   - numpy==1.16.4
-    #  - matplotlib==3.1.0
+  - matplotlib==3.1.0
   - netcdf4==1.4.2
   - xarray==0.12.1
-    #- nc-time-axis
+  - nc-time-axis
     #- holoviews
     #- bokeh
     #- hvplot
