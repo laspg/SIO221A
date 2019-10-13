@@ -1,4 +1,4 @@
-name: SIO221A-environment
+name: SIO221A
 channels:
   - defaults
   - conda-forge
