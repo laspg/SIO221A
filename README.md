@@ -2,7 +2,7 @@
 ### Bia Villas Bôas (avillasboas@ucsd.edu) & Gui Castelão (castelao@ucsd.edu) 
 
 
-To view an interactive version of the lecture notes, click on the binder icon below (no Python installation required):
+To view an interactive version of the lecture notes, click on the binder icon below (no Python installation required). The icon below will launch a Binder for this repository with all required dependencies (note that it might take a few minutes to build). The lecture notes will be in `notebooks/lectures`. Be aware that changes that you make in the notebook on the Binder server **will not be saved**.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biavillasboas/SIO221A/master)
 
