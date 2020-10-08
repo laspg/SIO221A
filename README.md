@@ -15,6 +15,6 @@ If you plan to do your assigments in Python and/or keep a local copy of this rep
 
 **If you are confortable using the terminal and are interested in using Git:**
 
-1. You can either install Anaconda as suggested above or if you would like to have more control over which packsges are intalled, you could alternativelly install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+1. You can either install Anaconda as suggested above or if you would like to have more control over which packsges are installed, you could alternativelly install Python using [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 2. Install Git following [these instructions](https://carpentries.github.io/workshop-template/#git) according to your operational system.
