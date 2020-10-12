@@ -19,4 +19,4 @@ If you plan to do your assigments in Python and/or keep a local copy of this rep
 
 - Install Git following [these instructions](https://carpentries.github.io/workshop-template/#git) according to your operational system.
 
-All the notebooks in this repository were developed and tested for the packages and versions specified in the `environment.yml` file. To make sure that you are able to run the notebooks locally, we recomend that you create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) using the `environment.yml`. Instructions for how to do this are available
+All the notebooks in this repository were developed and tested for the packages and versions specified in the `environment.yml` file. To make sure that you are able to run the notebooks locally, we recomend that you create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) using the `environment.yml`. Instructions for how to do this are available in [this notebook](https://github.com/biavillasboas/SIO221A/blob/master/notebooks/setup.ipynb).
