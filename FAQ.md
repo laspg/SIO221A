@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-1. I have already created the SIO221A environment. How do I add the environment to the list of available kernels?
+**1. I have already created the SIO221A environment. How do I add the environment to the list of available kernels?**
 
 - Linux/Mac 
 Open the terminal and run 
