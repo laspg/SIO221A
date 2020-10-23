@@ -15,10 +15,10 @@ That is it. Now, when you launch JupyterLab or Jupyter Notebook, the SIO221A ker
 
 - Windows
 
-Open the Anaconda navigator. On the left menu, go to the Environments tab. CLick on the play button on the SIO221A environment tab and launch the Anaconda Prompt.
+Open the Anaconda navigator. On the left menu, go to the Environments tab. CLick on the play button on the SIO221A environment tab and click "Open Terminal".
 
-In the Prompt, run:
+In the terminal, run:
 
 `ipython kernel install --user --name=SIO221A`
 
-Close the prompt and that is it. You can now launch JupyterLab or Jupyter Notebook and the SIO221A kernel will be available
+Close the terminal and that is it. You can now launch JupyterLab or Jupyter Notebook and the SIO221A kernel will be available
